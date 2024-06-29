@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring-Mail-Client
+
+  mail:
+    host: localhost
+    port: 1025
